@@ -1,2 +1,2 @@
-# ifaktura
-invoices generator for polish entrepreneurs
+# CConverter
+Convert currencies
