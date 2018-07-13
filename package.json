@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "publish": "ng build --prod --base-href 'https://therpm.github.io/ifaktura/' && ngh --repo=https://github.com/therpm/ifaktura.git --branch=gh-pages --no-silent"
+    "publish": "ng build --prod --base-href 'https://therpm.github.io/cconverter/' && ngh --repo=https://github.com/therpm/cconverter.git --branch=gh-pages --no-silent"
   },
   "private": true,
   "dependencies": {
