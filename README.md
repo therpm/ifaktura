@@ -1,4 +1,4 @@
-## This repo is Archived and will be removed in near the future.
+## This repo is Archived and will be removed in the near future.
 
 # CConverter
 Convert currencies
